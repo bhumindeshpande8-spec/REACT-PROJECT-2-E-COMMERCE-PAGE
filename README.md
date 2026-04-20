@@ -1,3 +1,4 @@
+````markdown id="lttnq8"
 # 🛍️ E-Commerce Product Explorer & Cart Management App
 
 A modern **React + Vite based E-Commerce Frontend Application** that simulates the core shopping experience of an online store.
@@ -42,15 +43,11 @@ This project was built as a **college project** to demonstrate practical fronten
 
 # ✨ Features
 
----
-
 ## 🏠 Home Page
 
 - Professional landing section
 - Clean navigation
 - Hero banner
-
----
 
 ## 🛒 Products Page
 
@@ -73,8 +70,6 @@ This project was built as a **college project** to demonstrate practical fronten
 - Price Low → High
 - Price High → Low
 
----
-
 ## 🔍 Product Details Page
 
 Each product has a separate page showing:
@@ -86,8 +81,6 @@ Each product has a separate page showing:
 - Price
 - Add to Cart button
 
----
-
 ## 🛍️ Shopping Cart
 
 Users can:
@@ -97,8 +90,6 @@ Users can:
 - Increase quantity
 - Decrease quantity
 - View total price
-
----
 
 ## 📱 Responsive Design
 
@@ -122,8 +113,6 @@ Reusable UI built using:
 - Filters
 - SearchBar
 
----
-
 ## State Management
 
 Used `useState()` for:
@@ -134,15 +123,11 @@ Used `useState()` for:
 - Sorting
 - Cart items
 
----
-
 ## Side Effects
 
 Used `useEffect()` for:
 
 - Fetching products from API
-
----
 
 ## Global State
 
@@ -153,63 +138,65 @@ Used **Context API** for:
 - Remove from Cart
 - Cart Count in Navbar
 
----
-
 ## Routing
 
 Used **React Router DOM**
 
 Routes:
 
-```bash
-/
- /products
- /products/:id
- /cart
-```
- ---
+- `/`
+- `/products`
+- `/products/:id`
+- `/cart`
 
-#📂 Folder Structure
-```bash
-src/
-│── components/
+---
+
+# 📂 Folder Structure
+
+```text
+src
+├── components
 │   ├── Navbar.jsx
 │   ├── ProductCard.jsx
 │   ├── ProductGrid.jsx
 │   ├── Filters.jsx
 │   └── SearchBar.jsx
 │
-│── context/
+├── context
 │   └── CartContext.jsx
 │
-│── pages/
+├── pages
 │   ├── Home.jsx
 │   ├── Products.jsx
 │   ├── ProductDetails.jsx
 │   └── Cart.jsx
 │
-│── App.jsx
-│── main.jsx
-│── App.css
-│── index.css
+├── App.jsx
+├── main.jsx
+├── App.css
+└── index.css
+````
 
+---
 
-#Learning Outcomes
+# 🎯 Learning Outcomes
 
 This project helps understand:
 
-Real React project structure
-API integration
-Component architecture
-State management
-Routing
-Context API
-Responsive design
-Professional UI building
+* Real React project structure
+* API integration
+* Component architecture
+* State management
+* Routing
+* Context API
+* Responsive design
+* Professional UI building
 
+---
 
-#👨‍💻 Author
+# 👨‍💻 Author
 
 Built with ❤️ using React + Vite.
 
-
+```
+```
