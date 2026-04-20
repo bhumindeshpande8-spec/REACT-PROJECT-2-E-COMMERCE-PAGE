@@ -1,4 +1,3 @@
-fix the last part
 
 # 🛍️ E-Commerce Product Explorer & Cart Management App
 
