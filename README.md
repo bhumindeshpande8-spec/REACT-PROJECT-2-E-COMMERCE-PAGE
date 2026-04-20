@@ -1,4 +1,3 @@
----
 # 🛍️ E-Commerce Product Explorer & Cart Management App
 
 A modern **React + Vite based E-Commerce Frontend Application** that simulates the core shopping experience of an online store.
