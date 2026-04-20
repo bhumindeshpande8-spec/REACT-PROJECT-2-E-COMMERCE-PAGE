@@ -169,7 +169,7 @@ Routes:
 
  ---
 
-#📂 Folder Structure
+##📂 Folder Structure
 ```bash
 src/
 │── components/
@@ -194,7 +194,7 @@ src/
 │── index.css
 ---
 
-#Learning Outcomes
+##Learning Outcomes
 
 This project helps understand:
 
@@ -208,7 +208,7 @@ Responsive design
 Professional UI building
 
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Built with ❤️ using React + Vite.
 
