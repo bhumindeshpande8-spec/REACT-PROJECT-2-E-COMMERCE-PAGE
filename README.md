@@ -192,7 +192,7 @@ src/
 │── main.jsx
 │── App.css
 │── index.css
----
+
 
 #Learning Outcomes
 
@@ -206,7 +206,7 @@ Routing
 Context API
 Responsive design
 Professional UI building
----
+
 
 #👨‍💻 Author
 
