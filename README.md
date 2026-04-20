@@ -170,7 +170,7 @@ Routes:
  ---
 
 #📂 Folder Structure
-```
+```bash
 src/
 │── components/
 │   ├── Navbar.jsx
@@ -192,10 +192,10 @@ src/
 │── main.jsx
 │── App.css
 │── index.css
-```
+---
 
 #Learning Outcomes
----
+
 This project helps understand:
 
 Real React project structure
@@ -206,10 +206,10 @@ Routing
 Context API
 Responsive design
 Professional UI building
----
+
 
 👨‍💻 Author
 
 Built with ❤️ using React + Vite.
 
----
+
