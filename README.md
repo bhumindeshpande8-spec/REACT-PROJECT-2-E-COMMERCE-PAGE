@@ -166,7 +166,7 @@ Routes:
  /products
  /products/:id
  /cart
-
+```
  ---
 
 ##📂 Folder Structure
